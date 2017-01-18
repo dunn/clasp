@@ -3,7 +3,8 @@
 	url = https://github.com/clasp-developers/SICL.git
 [submodule "src/lisp/modules/asdf"]
 	path = src/lisp/modules/asdf
-	url = https://github.com/drmeister/asdf.git
+  url = https://github.com/dunn/asdf.git
+  branch = submodules
 [submodule "src/mps"]
 	path = src/mps
 	url = https://github.com/Ravenbrook/mps.git
